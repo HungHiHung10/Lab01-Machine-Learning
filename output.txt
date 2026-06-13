@@ -1,0 +1,70 @@
+
+--- Slide1-30.ipynb ---
+  # Bước 1: Cài đặt các gói hệ thống cần thiết
+  # Bước 2: Cài đặt các thư viện Python
+  # Bước 3: Thiết lập Manim Voiceover
+  # Bước 4: Chạy cảnh Manim của bạn
+  # SLIDE 1 TỚI SLIDE 4
+  # SLIDE 5 TỚI SLIDE 6
+  # SLIDE 7 TỚI SLIDE 8
+  # SLIDE 9 TỚI SLIDE 10
+  # SLIDE 11 TỚI SLIDE 13
+  # SLIDE 14 TỚI SLIDE 17
+  # SLIDE 18 TỚI SLIDE 22
+  # SLIDE 23 TỚI SLIDE 24
+  # SLIDE 25
+  # SLIDE 26 TỚI SLIDE 27
+  # SLIDE 28, 29 VÀ SLIDE 30
+
+--- Slide31-80.ipynb ---
+  # Recent developments in geometric machine learning
+  ## slide 30-33
+  ## VoiceOver
+  ## slide 35-36
+  ## slide 37-39
+  ## slide 40
+  ## slide 41
+  ## slide 43
+  ## slide 44-45
+  ## slide 46
+  ## slide 47
+  ## slide 49 Representation theory
+  ## slide 50
+  ## slide 51
+  ## slide 52
+  ## slide 53-54
+  ## slide 55
+  ## slide 57-59
+  ## slide 60-63
+  ## slide 64
+  ## slide 65-69
+  ## slide 68-69
+  ## slide 71-72
+  ## slide 73-75
+  ## slide 76-77
+  ## slide 79-80
+
+--- Slide81_126.ipynb ---
+  # Set up
+  # SLIDE 81–85
+  ## Generative
+  ## Display
+  # SLIDE 86–92
+  ## Generative
+  ## Display
+  # SLIDE 93–101
+  ## Generative
+  ## Display
+  # SLIDE 102–110
+  ## Generative
+  ## Display
+  # SLIDE 111-115
+  ## Generative
+  ## Display
+  # SLIDE 116-122
+  ## Generative
+  ## Display
+  # SLIDE 123-126
+  ## Generative
+  ## Display
+  # Final
